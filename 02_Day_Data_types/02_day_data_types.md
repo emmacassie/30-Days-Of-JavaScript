@@ -633,7 +633,7 @@ console.log(string.charCodeAt(lastIndex)) // t ASCII is 116
 
 ```
 
-13.  *indexOf()*: Takes a substring and if the substring exists in a string it returns the first position of the substring if does not exist it returns -1
+13.  *indexOf()*: Takes a substring and if the substring exists in a string it returns the first position of the substring, if the substring does not exist it returns -1
 
 ```js
 string.indexOf(substring)
